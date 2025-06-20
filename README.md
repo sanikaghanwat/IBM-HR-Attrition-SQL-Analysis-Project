@@ -40,15 +40,22 @@ ________________________________________
 **5) Job Role Trends**
 •	Sales Representatives and Laboratory Technicians experience the highest attrition.
 •	This indicates role-specific dissatisfaction or pressure.
+________________________________________
 
 ✅ **What the Company Can Do to Reduce Attrition**
 1)Give better salary to employees who earn less, so they feel happy and stay longer.
+
 2)Allow flexible working hours, give health support, and avoid putting too much work — this helps with work-life balance.
+
 3)Reduce excessive overtime or fairly compensate employees for working extra hours. This shows respect for their time and reduces burnout, which can lower attrition.
+
 4)Give employees, especially young ones, a clear path for promotion and growth in the company.
+
 5)Take feedback during exit interviews to understand why people are leaving and fix those issues.
+
 6)Create a friendly and supportive work environment where employees feel safe, respected, and valued.
 
+________________________________________
 
 **Tools Used**
 
