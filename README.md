@@ -43,6 +43,7 @@ ________________________________________
 ________________________________________
 
 ✅ **What the Company Can Do to Reduce Attrition**
+
 1)Give better salary to employees who earn less, so they feel happy and stay longer.
 
 2)Allow flexible working hours, give health support, and avoid putting too much work — this helps with work-life balance.
